@@ -18,7 +18,8 @@ Each code plots a visualization of each muscle and kinematic cyle that allows to
 If you have a question, don't hesitate to contact : robin.macchi@gmail.com
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Macchi et al. RSI 2021](https://github.com/mdomalai/BiomechStoneToolmaking_RSI/blob/main/Capture.JPG)
+
 
 
 
