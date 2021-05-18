@@ -1,4 +1,4 @@
-This repository contains the scripts associated with the study "Biomechanical demands of percussive techniques in the context of early stone toolmaking" (Macchi R., Daver G., Brenet  M., Prat S., Hugheville L., Harmand S., Lewis J., Domalain M.) published in the Journal of the Royal Society Interface, 2021.
+This repository contains the scripts associated with the study "Biomechanical demands of percussive techniques in the context of early stone toolmaking" (Macchi R., Daver G., Brenet  M., Prat S., Hugheville L., Harmand S., Lewis J., Domalain M.) published in the Journal of the Royal Society Interface, 2021. https://doi.org/10.1098/rsif.2020.1044
 
 The scripts were originally developped to process the data used in this study and available on datadryad.org (https://doi.org/10.5061/dryad.cfxpnvx51).
 
